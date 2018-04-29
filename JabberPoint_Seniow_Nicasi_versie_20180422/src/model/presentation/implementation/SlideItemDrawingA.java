@@ -8,7 +8,7 @@ package model.presentation.implementation;
  *  De implementatie is de visuele weergave of tekenwijze op de componenten van de grafische omgeving. 
  *  De verschillende adaptees implementeren het grafisch voorstellen van de slide items in de grafische omgeving.
  *  De context waarmee de adaptees tekenen kan gevonden worden in het slideItemDrawingContext object.
- *  Niet te verwarren met de teken stijl van slide items. De teken stijl geeft specifieke eigenschappen zoals bv de kleur.
+ *  Niet te verwarren met de tekenstijl van slide items. De tekenstijl geeft specifieke eigenschappen zoals bv de kleur.
  *  Het alfabet is genomen als aanduiding voor een specifieke implementatie, in dit geval A.
  * 	@author Seniow Andy, Kevin Nicasi
  * 	@version 1.1 23/04/2018 Seniow Andy en Kevin Nicasi
